@@ -3,7 +3,7 @@
   <bean id="pb" class="java.lang.ProcessBuilder" init-method="start">
     <constructor-arg>
       <list>
-        <value>notepad.exe</value>
+        <value>calc.exe</value>
       </list>
     </constructor-arg>
   </bean>
